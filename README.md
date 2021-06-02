@@ -1,8 +1,13 @@
-### I'am web backend programming student!
+### 💻 web backend programmer student! 💻
 
-1. Languages: python, c, JavaScript ... etc
-2. Frameworks: Node.js
-3. DBMS : MYSQL
+- Languages: python, c, JavaScript ... etc
+- Frameworks: Node.js, Vue, React
+- DBMS : MYSQL
+- What I'm currently studying: NetWork, Socket
+- Country : Republic of Korea
+- school : middle school
+
+> 😀 I'am a programmer who is not conceited but broad-minded. 😀
 
 
 <!---
