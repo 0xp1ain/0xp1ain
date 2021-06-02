@@ -1,8 +1,8 @@
 ##### I'am web backend programming student!
 
-Languages: python, c, JavaScript ... etc
-Frameworks: Node.js
-DBMS : MYSQL
+1. Languages: python, c, JavaScript ... etc
+2. Frameworks: Node.js
+3. DBMS : MYSQL
 
 
 <!---
