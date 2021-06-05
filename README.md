@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jun0911-cmyk=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 💻 web backend programmer student! 💻
 
 - Languages: python, c, JavaScript ... etc
