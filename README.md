@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jun0911-cmyk=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jun0911=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 web backend programmer student! 💻
 
