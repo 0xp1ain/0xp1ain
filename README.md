@@ -3,7 +3,7 @@
 ### 💻 web backend programmer middle student! 💻
 
 - Languages: python, c, JavaScript ... etc
-- Frameworks: Node.js, Vue, React
+- Frameworks: Node.js, Vue.js, React.js
 - DBMS : MYSQL
 - What I'm currently studying: NetWork, Socket
 - Country : Republic of Korea
