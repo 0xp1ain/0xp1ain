@@ -5,7 +5,7 @@
 - Languages: python, c, JavaScript ... etc
 - Frameworks: Node.js, Vue.js, React.js
 - DBMS : MYSQL
-- What I'm currently studying: NetWork, Socket
+- What I'm currently studying: NetWork, Socket, MachineLearning
 - Country : Republic of Korea
 - school : middle school
 
