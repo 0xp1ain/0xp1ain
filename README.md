@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun0911-cmyk&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-### 💻 web backend programmer middle student! 💻
+### 💻 web backend programmer student! 💻
 
 - Languages: python, c, JavaScript ... etc
 - Frameworks: Node.js, Vue.js, React.js
