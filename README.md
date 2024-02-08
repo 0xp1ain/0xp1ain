@@ -1,7 +1,5 @@
 # 👋 Hi! I'm jun0911 (Gunwoo Jeong)
 
-> Let's not be conceited.
-
 ### 💻 I L0VE W2B 💻 
 
 - Web Developer / White Hacker
