@@ -3,7 +3,7 @@
 ### 💻 I L0VE W2B 💻
 
 - Web Developer / White Hacker
-- Birth : 2008.03.05
+- Birth : 2008.03.05 
 - Hobbies: DJ and Weight
 - Team : Team of TeamH4C
 - Country : Republic of Korea
