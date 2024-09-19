@@ -1,6 +1,6 @@
 # 👋 Hi! I'm jun0911 (Gunwoo Jeong)
 
-### 💻 I L0VE W2B 💻
+### 💻 I L0VE W2B / W2B3! 💻
 
 - Web Developer / Web3 Researcher / White Hacker
 - Birth : 2008.03.05 
