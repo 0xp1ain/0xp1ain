@@ -1,4 +1,4 @@
-# 👋 Hi! I'm jun0911 (Gunwoo Jeong)
+# 👋 Hi! I'm jun0911 (Sub : 0xp1ain) (Gunwoo Jeong)
 
 ### 💻 I L0VE W2B / W2B3! 💻
 
