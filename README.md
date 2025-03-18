@@ -2,9 +2,9 @@
 
 ### 💻 I L0VE W2B / W2B3! 💻
 
-- Web Developer / Web3 Security Researcher / White Hacker
+- Web / Web3 Security Researcher / White Hacker / CTF Player
 - Hobbies: Web2 Security Research, AI
-- Team : Team of TeamH4C
+- Team : idek, FMC(Friendly Maltese Citizens)
 - Country : Republic of Korea
 
 ### 🔍 Github Status
