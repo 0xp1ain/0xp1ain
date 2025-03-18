@@ -7,9 +7,6 @@
 - Team : idek, FMC(Friendly Maltese Citizens)
 - Country : Republic of Korea
 
-### 🔍 Github Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xp1ain&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🚩 Top Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xp1ain&layout=compact)](https://github.com/0xp1ain/github-readme-stats)
 
