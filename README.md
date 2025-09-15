@@ -4,7 +4,7 @@
 
 - Web / Web3 Security Researcher / White Hacker / CTF Player
 - Hobbies: Web2 Security Research, AI
-- Team : idek, FMC(Friendly Maltese Citizens)
+- Team : infobahn, idek, FMC(Friendly Maltese Citizens)
 - Country : Republic of Korea
 
 ### 🚩 Top Language
