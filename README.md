@@ -1,4 +1,4 @@
-# Gunwoo Jeong (a.k.a Plain)
+# Geonwoo Jeong (a.k.a Plain)
 
 - Security Researcher / CTF Player / LLM
 - Country : Republic of Korea
